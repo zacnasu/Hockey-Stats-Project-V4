@@ -1,0 +1,549 @@
+---
+title: oct18 vs. Cowichan Capitals
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Team  
+## Game/Period Summary  
+***
+### Game Total:  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 1 & 2 & 0 & 3\\
+\hline
+On Net & 6 & 6 & 12 & 24\\
+\hline
+Missed & 4 & 6 & 5 & 15\\
+\hline
+Blocked & 2 & 4 & 7 & 13\\
+\hline\hline
+Total & 13 & 18 & 24 & 55  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 2 & 0 & 0 & 2\\
+\hline
+On Net & 10 & 8 & 10 & 28\\
+\hline
+Missed & 2 & 3 & 1 & 6\\
+\hline
+Blocked & 1 & 8 & 10 & 19\\
+\hline\hline
+Total & 15 & 19 & 21 & 55  
+\end{tabular}
+  
+### Period: 1  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 1 & 0 & 0 & 1\\
+\hline
+On Net & 1 & 2 & 6 & 9\\
+\hline
+Missed & 1 & 3 & 2 & 6\\
+\hline
+Blocked & 0 & 1 & 3 & 4\\
+\hline\hline
+Total & 3 & 6 & 11 & 20  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 1 & 0 & 0 & 1\\
+\hline
+On Net & 1 & 4 & 6 & 11\\
+\hline
+Missed & 1 & 0 & 0 & 1\\
+\hline
+Blocked & 0 & 2 & 1 & 3\\
+\hline\hline
+Total & 3 & 6 & 7 & 16  
+\end{tabular}
+  
+### Period: 2  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 1 & 0 & 1\\
+\hline
+On Net & 1 & 3 & 2 & 6\\
+\hline
+Missed & 1 & 2 & 1 & 4\\
+\hline
+Blocked & 0 & 2 & 2 & 4\\
+\hline\hline
+Total & 2 & 8 & 5 & 15  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 6 & 1 & 3 & 10\\
+\hline
+Missed & 0 & 3 & 1 & 4\\
+\hline
+Blocked & 0 & 3 & 4 & 7\\
+\hline\hline
+Total & 6 & 7 & 8 & 21  
+\end{tabular}
+  
+### Period: 3  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 1 & 0 & 1\\
+\hline
+On Net & 4 & 1 & 4 & 9\\
+\hline
+Missed & 2 & 1 & 2 & 5\\
+\hline
+Blocked & 2 & 1 & 2 & 5\\
+\hline\hline
+Total & 8 & 4 & 8 & 20  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 1 & 0 & 0 & 1\\
+\hline
+On Net & 3 & 3 & 1 & 7\\
+\hline
+Missed & 1 & 0 & 0 & 1\\
+\hline
+Blocked & 1 & 3 & 5 & 9\\
+\hline\hline
+Total & 6 & 6 & 6 & 18  
+\end{tabular}
+  
+## Even Strength  
+***
+### Game Total:  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 1 & 2 & 0 & 3\\
+\hline
+On Net & 3 & 4 & 12 & 19\\
+\hline
+Missed & 3 & 5 & 5 & 13\\
+\hline
+Blocked & 2 & 2 & 6 & 10\\
+\hline\hline
+Total & 9 & 13 & 23 & 45  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 2 & 0 & 0 & 2\\
+\hline
+On Net & 7 & 7 & 10 & 24\\
+\hline
+Missed & 2 & 3 & 1 & 6\\
+\hline
+Blocked & 0 & 4 & 9 & 13\\
+\hline\hline
+Total & 11 & 14 & 20 & 45  
+\end{tabular}
+  
+### Period: 1  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 1 & 0 & 0 & 1\\
+\hline
+On Net & 1 & 2 & 6 & 9\\
+\hline
+Missed & 1 & 3 & 2 & 6\\
+\hline
+Blocked & 0 & 1 & 3 & 4\\
+\hline\hline
+Total & 3 & 6 & 11 & 20  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 1 & 0 & 0 & 1\\
+\hline
+On Net & 1 & 4 & 6 & 11\\
+\hline
+Missed & 1 & 0 & 0 & 1\\
+\hline
+Blocked & 0 & 2 & 1 & 3\\
+\hline\hline
+Total & 3 & 6 & 7 & 16  
+\end{tabular}
+  
+### Period: 2  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 1 & 0 & 1\\
+\hline
+On Net & 0 & 1 & 2 & 3\\
+\hline
+Missed & 1 & 2 & 1 & 4\\
+\hline
+Blocked & 0 & 1 & 1 & 2\\
+\hline\hline
+Total & 1 & 5 & 4 & 10  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 4 & 1 & 3 & 8\\
+\hline
+Missed & 0 & 3 & 1 & 4\\
+\hline
+Blocked & 0 & 2 & 3 & 5\\
+\hline\hline
+Total & 4 & 6 & 7 & 17  
+\end{tabular}
+  
+### Period: 3  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 1 & 0 & 1\\
+\hline
+On Net & 2 & 1 & 4 & 7\\
+\hline
+Missed & 1 & 0 & 2 & 3\\
+\hline
+Blocked & 2 & 0 & 2 & 4\\
+\hline\hline
+Total & 5 & 2 & 8 & 15  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 1 & 0 & 0 & 1\\
+\hline
+On Net & 2 & 2 & 1 & 5\\
+\hline
+Missed & 1 & 0 & 0 & 1\\
+\hline
+Blocked & 0 & 0 & 5 & 5\\
+\hline\hline
+Total & 4 & 2 & 6 & 12  
+\end{tabular}
+  
+## Powerplay  
+***
+### Game Total:  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 3 & 1 & 0 & 4\\
+\hline
+Missed & 1 & 1 & 0 & 2\\
+\hline
+Blocked & 0 & 2 & 1 & 3\\
+\hline\hline
+Total & 4 & 4 & 1 & 9  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 1 & 0 & 1\\
+\hline\hline
+Total & 0 & 1 & 0 & 1  
+\end{tabular}
+  
+### Period: 1  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0  
+\end{tabular}
+  
+### Period: 2  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 1 & 1 & 0 & 2\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 1 & 1 & 2\\
+\hline\hline
+Total & 1 & 2 & 1 & 4  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 1 & 0 & 1\\
+\hline\hline
+Total & 0 & 1 & 0 & 1  
+\end{tabular}
+  
+### Period: 3  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 2 & 0 & 0 & 2\\
+\hline
+Missed & 1 & 1 & 0 & 2\\
+\hline
+Blocked & 0 & 1 & 0 & 1\\
+\hline\hline
+Total & 3 & 2 & 0 & 5  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0  
+\end{tabular}
+  
+## Penalty Kill  
+***
+### Game Total:  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 1 & 0 & 1\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 1 & 0 & 1  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 3 & 1 & 0 & 4\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 1 & 3 & 1 & 5\\
+\hline\hline
+Total & 4 & 4 & 1 & 9  
+\end{tabular}
+  
+### Period: 1  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0  
+\end{tabular}
+  
+### Period: 2  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 1 & 0 & 1\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 1 & 0 & 1  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 2 & 0 & 0 & 2\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 1 & 1\\
+\hline\hline
+Total & 2 & 0 & 1 & 3  
+\end{tabular}
+  
+### Period: 3  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0  
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 1 & 1 & 0 & 2\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 1 & 3 & 0 & 4\\
+\hline\hline
+Total & 2 & 4 & 0 & 6  
+\end{tabular}
+  
+### Corsi: 50.00%  
+### Fenwick: 52.24%  
+\pagebreak

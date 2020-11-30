@@ -141,8 +141,6 @@ def main():
         print("Please enter file name and then Game Date and Opponent Name")
         sys.exit(0)
 
-
-
     input_file = sys.argv[1]
     game_date = sys.argv[2]
     opponent_name = sys.argv[3]
@@ -459,15 +457,6 @@ def read_input(input_file_name):
     fileptr.close()
     return input_list
 
-
-def print_to_csv(period, gameType, players, playtype):
-    output = [period]
-    output.append(gameType)
-    output = output + players
-    output.append(playtype)
-    for element in output[0:-1]:
-        print(element, end = ",")
-    print(output[-1])
 
 
 def read_lines(input_lines):

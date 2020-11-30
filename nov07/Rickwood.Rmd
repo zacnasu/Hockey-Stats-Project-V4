@@ -1,0 +1,533 @@
+---
+title: November 7th vs. Alberni Bulldogs
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 74: Rickwood  
+### Corsi: 35.29%  
+### Fenwick: 28.00%  
+### Even Strength Percent of expect Goals For: 55.08%  
+### Even Strength Expected Goals For: 1.01  
+### Even Strength Expected Goals Against: 0.82  
+## Even Strength  
+***
+### Game Total:  
+##### number of shifts: 28  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\
+\hline\hline
+Goal & 1 & 0 & 0 & 1\\
+\hline
+On Net & 0 & 1 & 1 & 2\\
+\hline
+Missed & 2 & 2 & 0 & 4\\
+\hline
+Blocked & 0 & 3 & 2 & 5\\
+\hline\hline
+Total & 3 & 6 & 3 & 12\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 1 & 0 & 1 & 2\\
+\hline
+On Net & 0 & 5 & 5 & 10\\
+\hline
+Missed & 1 & 3 & 2 & 6\\
+\hline
+Blocked & 1 & 3 & 0 & 4\\
+\hline\hline
+Total & 3 & 11 & 8 & 22\\
+\end{tabular}
+  
+### Period: 1  
+##### number of shifts: 11  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 1 & 0 & 0 & 1\\
+\hline
+On Net & 0 & 0 & 1 & 1\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 1 & 1\\
+\hline\hline
+Total & 1 & 0 & 2 & 3\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 2 & 3 & 5\\
+\hline
+Missed & 1 & 1 & 2 & 4\\
+\hline
+Blocked & 1 & 0 & 0 & 1\\
+\hline\hline
+Total & 2 & 3 & 5 & 10\\
+\end{tabular}
+  
+### Period: 2  
+##### number of shifts: 7  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 1 & 0 & 1\\
+\hline
+Missed & 1 & 1 & 0 & 2\\
+\hline
+Blocked & 0 & 0 & 1 & 1\\
+\hline\hline
+Total & 1 & 2 & 1 & 4\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 1 & 0 & 1\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 1 & 0 & 1\\
+\hline\hline
+Total & 0 & 2 & 0 & 2\\
+\end{tabular}
+  
+### Period: 3  
+##### number of shifts: 7  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 1 & 1 & 0 & 2\\
+\hline
+Blocked & 0 & 1 & 0 & 1\\
+\hline\hline
+Total & 1 & 2 & 0 & 3\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 1 & 0 & 1 & 2\\
+\hline
+On Net & 0 & 0 & 2 & 2\\
+\hline
+Missed & 0 & 2 & 0 & 2\\
+\hline
+Blocked & 0 & 2 & 0 & 2\\
+\hline\hline
+Total & 1 & 4 & 3 & 8\\
+\end{tabular}
+  
+### Period: 4  
+##### number of shifts: 3  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 2 & 0 & 2\\
+\hline\hline
+Total & 0 & 2 & 0 & 2\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 2 & 0 & 2\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 2 & 0 & 2\\
+\end{tabular}
+  
+## Powerplay  
+***
+### Game Total:  
+##### number of shifts: 1  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 1 & 0 & 0 & 1\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 1 & 0 & 0 & 1\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+  
+### Period: 1  
+##### number of shifts: 0  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+  
+### Period: 2  
+##### number of shifts: 1  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 1 & 0 & 0 & 1\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 1 & 0 & 0 & 1\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+  
+### Period: 3  
+##### number of shifts: 0  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+  
+### Period: 4  
+##### number of shifts: 0  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+  
+## Penalty Kill  
+***
+### Game Total:  
+##### number of shifts: 0  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+  
+### Period: 1  
+##### number of shifts: 0  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+  
+### Period: 2  
+##### number of shifts: 0  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+  
+### Period: 3  
+##### number of shifts: 0  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+  
+### Period: 4  
+##### number of shifts: 0  
+#### FOR  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+\vspace{5mm}  
+#### AGAINST  
+  
+\begin{tabular}{ c || c | c | c || c}
+& High & Medium & Low & Total\\  
+\hline\hline
+Goal & 0 & 0 & 0 & 0\\
+\hline
+On Net & 0 & 0 & 0 & 0\\
+\hline
+Missed & 0 & 0 & 0 & 0\\
+\hline
+Blocked & 0 & 0 & 0 & 0\\
+\hline\hline
+Total & 0 & 0 & 0 & 0\\
+\end{tabular}
+  
+### Fenwick: 28.00%  
+\pagebreak

@@ -84,12 +84,6 @@ class player:
         else:
             self.gameTypes[gametype]["TOTAL"]["shifts"] = 1
 
-
-    def toJSON(self):
-        return json.dumps(self.__dict__ , cls = ComplexEncoder)
-
-
-
 class team:
     def __init__(self):
         self.gameTypes = {}
@@ -402,9 +396,6 @@ def print_team_to_latex(teamObj, periods, game_date, opponent, path):
                 for playType in acceptable_types:
                     if teamObj.gameTypes[type][period].get(playType) == None:
                         teamObj.gameTypes[type][period][playType] = 0
-
-
-
 
                  file.write("### Period: "+ str(period) + "  \n")
                  file.write("#### FOR  \n")

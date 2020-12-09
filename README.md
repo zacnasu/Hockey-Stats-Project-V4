@@ -23,13 +23,13 @@ PERIOD ES 14 12 13 23 19 AHN FMN ALM
 ```
 
 #### Flags:
-'PERIOD': indexes period by one
-'ES': changes to Even Strength
-'PK': changes toPenalty Kill
-'PP': changes Powerplay
+'PERIOD': indexes period by one  
+'ES': changes to Even Strength  
+'PK': changes toPenalty Kill  
+'PP': changes Powerplay  
 
 #### Events:
-[Team: {For: 'F', Against: 'A'}][Danger level: {High: 'H', Medium: 'M', Low: 'L'}][Result: {On net: 'N', Missed: 'M', Blocked: 'B', Goal: 'G'}]
+[Team: {For: 'F', Against: 'A'}][Danger level: {High: 'H', Medium: 'M', Low: 'L'}][Result: {On net: 'N', Missed: 'M', Blocked: 'B', Goal: 'G'}]  
 Ex: AMN, (A)gainst (M)edium danger on (N)et
 
 ## Running Programs 

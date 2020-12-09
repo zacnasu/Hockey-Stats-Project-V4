@@ -46,3 +46,8 @@ python3 stats_analyzer.py data/oct31.txt "October 31" "Nanaimo Clippers" oct31
 ```
 python3 expect_goals.py
 ```
+
+## Future Updates needed
+1. be able to knit all of the rmd files to pdf right from command line through script
+1. create seperate data file for roster to import
+1. create seperate data file for list of games for expected goals

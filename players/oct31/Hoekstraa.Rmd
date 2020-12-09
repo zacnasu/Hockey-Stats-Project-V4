@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 # 17: Hoekstraa  
 ### Corsi: 57.58%  
 ### Fenwick: 56.00%  
-### Even Strength Percent of expect Goals For: 63.64%  
-### Even Strength Expected Goals For: 1.14  
-### Even Strength Expected Goals Against: 0.65  
+### Even Strength Percent of expect Goals For: 60.42%  
+### Even Strength Expected Goals For: 1.06  
+### Even Strength Expected Goals Against: 0.70  
 ## Even Strength  
 ***
 ### Game Total:  
-##### number of shifts: 27  
+##### number of shifts: 13  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -50,7 +50,7 @@ Total & 3 & 3 & 8 & 14\\
 \end{tabular}
   
 ### Period: 1  
-##### number of shifts: 6  
+##### number of shifts: 3  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -84,7 +84,7 @@ Total & 0 & 1 & 1 & 2\\
 \end{tabular}
   
 ### Period: 2  
-##### number of shifts: 7  
+##### number of shifts: 4  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -118,7 +118,7 @@ Total & 1 & 0 & 3 & 4\\
 \end{tabular}
   
 ### Period: 3  
-##### number of shifts: 14  
+##### number of shifts: 6  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}

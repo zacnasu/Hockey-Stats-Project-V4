@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 # 2: Waram  
 ### Corsi: 64.29%  
 ### Fenwick: 68.00%  
-### Even Strength Percent of expect Goals For: 90.42%  
-### Even Strength Expected Goals For: 1.65  
-### Even Strength Expected Goals Against: 0.18  
+### Even Strength Percent of expect Goals For: 87.59%  
+### Even Strength Expected Goals For: 1.55  
+### Even Strength Expected Goals Against: 0.22  
 ## Even Strength  
 ***
 ### Game Total:  
-##### number of shifts: 31  
+##### number of shifts: 19  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -50,7 +50,7 @@ Total & 1 & 7 & 7 & 15\\
 \end{tabular}
   
 ### Period: 1  
-##### number of shifts: 8  
+##### number of shifts: 5  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -84,7 +84,7 @@ Total & 0 & 2 & 2 & 4\\
 \end{tabular}
   
 ### Period: 2  
-##### number of shifts: 8  
+##### number of shifts: 6  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -118,7 +118,7 @@ Total & 0 & 0 & 2 & 2\\
 \end{tabular}
   
 ### Period: 3  
-##### number of shifts: 15  
+##### number of shifts: 8  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -292,7 +292,7 @@ Total & 0 & 0 & 0 & 0\\
 ## Penalty Kill  
 ***
 ### Game Total:  
-##### number of shifts: 3  
+##### number of shifts: 2  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -326,7 +326,7 @@ Total & 3 & 3 & 0 & 6\\
 \end{tabular}
   
 ### Period: 1  
-##### number of shifts: 2  
+##### number of shifts: 1  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}

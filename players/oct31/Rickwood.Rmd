@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 # 74: Rickwood  
 ### Corsi: 65.71%  
 ### Fenwick: 61.54%  
-### Even Strength Percent of expect Goals For: 70.75%  
-### Even Strength Expected Goals For: 1.52  
-### Even Strength Expected Goals Against: 0.63  
+### Even Strength Percent of expect Goals For: 67.72%  
+### Even Strength Expected Goals For: 1.39  
+### Even Strength Expected Goals Against: 0.66  
 ## Even Strength  
 ***
 ### Game Total:  
-##### number of shifts: 22  
+##### number of shifts: 16  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -50,7 +50,7 @@ Total & 3 & 3 & 6 & 12\\
 \end{tabular}
   
 ### Period: 1  
-##### number of shifts: 8  
+##### number of shifts: 5  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -84,7 +84,7 @@ Total & 1 & 2 & 3 & 6\\
 \end{tabular}
   
 ### Period: 2  
-##### number of shifts: 7  
+##### number of shifts: 6  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -118,7 +118,7 @@ Total & 0 & 0 & 3 & 3\\
 \end{tabular}
   
 ### Period: 3  
-##### number of shifts: 7  
+##### number of shifts: 5  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}

@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 # 19: Monds  
 ### Corsi: 53.57%  
 ### Fenwick: 58.82%  
-### Even Strength Percent of expect Goals For: 79.90%  
-### Even Strength Expected Goals For: 0.62  
-### Even Strength Expected Goals Against: 0.16  
+### Even Strength Percent of expect Goals For: 73.99%  
+### Even Strength Expected Goals For: 0.56  
+### Even Strength Expected Goals Against: 0.20  
 ## Even Strength  
 ***
 ### Game Total:  
-##### number of shifts: 23  
+##### number of shifts: 16  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -50,7 +50,7 @@ Total & 1 & 5 & 7 & 13\\
 \end{tabular}
   
 ### Period: 1  
-##### number of shifts: 9  
+##### number of shifts: 6  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -84,7 +84,7 @@ Total & 0 & 1 & 2 & 3\\
 \end{tabular}
   
 ### Period: 2  
-##### number of shifts: 6  
+##### number of shifts: 5  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -118,7 +118,7 @@ Total & 1 & 1 & 1 & 3\\
 \end{tabular}
   
 ### Period: 3  
-##### number of shifts: 8  
+##### number of shifts: 5  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}

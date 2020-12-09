@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 # 22: DiPaolo  
 ### Corsi: 56.67%  
 ### Fenwick: 61.11%  
-### Even Strength Percent of expect Goals For: 85.04%  
-### Even Strength Expected Goals For: 0.88  
-### Even Strength Expected Goals Against: 0.16  
+### Even Strength Percent of expect Goals For: 80.33%  
+### Even Strength Expected Goals For: 0.80  
+### Even Strength Expected Goals Against: 0.20  
 ## Even Strength  
 ***
 ### Game Total:  
-##### number of shifts: 26  
+##### number of shifts: 16  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -50,7 +50,7 @@ Total & 1 & 5 & 7 & 13\\
 \end{tabular}
   
 ### Period: 1  
-##### number of shifts: 12  
+##### number of shifts: 6  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -84,7 +84,7 @@ Total & 0 & 1 & 2 & 3\\
 \end{tabular}
   
 ### Period: 2  
-##### number of shifts: 6  
+##### number of shifts: 5  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -118,7 +118,7 @@ Total & 1 & 1 & 1 & 3\\
 \end{tabular}
   
 ### Period: 3  
-##### number of shifts: 8  
+##### number of shifts: 5  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}

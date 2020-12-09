@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 # 21: Eddy  
 ### Corsi: 54.55%  
 ### Fenwick: 60.00%  
-### Even Strength Percent of expect Goals For: 84.22%  
-### Even Strength Expected Goals For: 2.09  
-### Even Strength Expected Goals Against: 0.39  
+### Even Strength Percent of expect Goals For: 81.32%  
+### Even Strength Expected Goals For: 1.91  
+### Even Strength Expected Goals Against: 0.44  
 ## Even Strength  
 ***
 ### Game Total:  
-##### number of shifts: 28  
+##### number of shifts: 16  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -84,7 +84,7 @@ Total & 0 & 0 & 3 & 3\\
 \end{tabular}
   
 ### Period: 2  
-##### number of shifts: 10  
+##### number of shifts: 5  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -118,7 +118,7 @@ Total & 0 & 3 & 2 & 5\\
 \end{tabular}
   
 ### Period: 3  
-##### number of shifts: 13  
+##### number of shifts: 6  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}

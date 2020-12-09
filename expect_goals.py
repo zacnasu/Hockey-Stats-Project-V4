@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import sys
 
 acceptable_types = ["FHG", "FHN", "FHM","FMG", "FMN", "FMM","FLG", "FLN", "FLM","FLG", "AHG", "AHN", "AHM","AMG", "AMN", "AMM","ALG", "ALN", "ALM","ALG", "ALB", "AMB", "AHB", "FLB", "FMB", "FHB", "AEG", "FEG"]
 
@@ -6,7 +7,7 @@ def main():
     games = ["oct03.txt", "oct16.txt", "oct18.txt", "oct23.txt", "oct24.txt", "oct31.txt", "nov07.txt", "nov13.txt"]
     stats = {}
     for game in games:
-        input_lines = read_input(game)
+        input_lines = read_input("data/" + game)
         stats = read_lines(input_lines, stats)
     with open('expect_goals_constants.py', 'w') as file:
         file.write("FH_xG = "+ str(stats["FHG"]/(stats["FHG"]+stats["FHN"]+stats["FHM"])) +"\n")
@@ -51,7 +52,6 @@ def read_lines(input_lines, stats):
                 break
 
         while j < len(line):
-            # print(line[j] + " play type")
             if line[j] not in acceptable_types:
                 sys.exit("""incorrect play type """ + str(i) + line[j])
 

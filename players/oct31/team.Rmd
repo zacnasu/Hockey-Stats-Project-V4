@@ -10,12 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 # Team  
 ### Corsi: 58.27%  
 ### Fenwick: 58.14%  
-### Overall Percent of expect Goals For: 69.67%  
-### Overall Expected Goals For: 5.48  
-### Overall Expected Goals Against: 2.39  
-### Even Strength Percent of expect Goals For: 75.86%  
-### Even Strength Expected Goals For: 5.09  
-### Even Strength Expected Goals Against: 1.62  
+### Overall Percent of expect Goals For: 65.97%  
+### Overall Expected Goals For: 5.00  
+### Overall Expected Goals Against: 2.58  
+### Even Strength Percent of expect Goals For: 72.24%  
+### Even Strength Expected Goals For: 4.65  
+### Even Strength Expected Goals Against: 1.79  
 ## Game/Period Summary  
 ***
 ### Game Total:  

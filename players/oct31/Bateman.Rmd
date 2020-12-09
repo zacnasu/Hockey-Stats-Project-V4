@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 # 4: Bateman  
 ### Corsi: 59.18%  
 ### Fenwick: 57.14%  
-### Even Strength Percent of expect Goals For: 74.13%  
-### Even Strength Expected Goals For: 2.13  
-### Even Strength Expected Goals Against: 0.74  
+### Even Strength Percent of expect Goals For: 70.56%  
+### Even Strength Expected Goals For: 1.95  
+### Even Strength Expected Goals Against: 0.81  
 ## Even Strength  
 ***
 ### Game Total:  
-##### number of shifts: 37  
+##### number of shifts: 19  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -50,7 +50,7 @@ Total & 3 & 5 & 12 & 20\\
 \end{tabular}
   
 ### Period: 1  
-##### number of shifts: 11  
+##### number of shifts: 6  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -84,7 +84,7 @@ Total & 1 & 1 & 3 & 5\\
 \end{tabular}
   
 ### Period: 2  
-##### number of shifts: 11  
+##### number of shifts: 6  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -118,7 +118,7 @@ Total & 1 & 2 & 3 & 6\\
 \end{tabular}
   
 ### Period: 3  
-##### number of shifts: 15  
+##### number of shifts: 7  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -292,7 +292,7 @@ Total & 0 & 0 & 0 & 0\\
 ## Penalty Kill  
 ***
 ### Game Total:  
-##### number of shifts: 4  
+##### number of shifts: 2  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -326,7 +326,7 @@ Total & 1 & 1 & 0 & 2\\
 \end{tabular}
   
 ### Period: 1  
-##### number of shifts: 2  
+##### number of shifts: 1  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -360,7 +360,7 @@ Total & 0 & 1 & 0 & 1\\
 \end{tabular}
   
 ### Period: 2  
-##### number of shifts: 2  
+##### number of shifts: 1  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}

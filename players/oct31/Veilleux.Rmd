@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 # 91: Veilleux  
 ### Corsi: 60.00%  
 ### Fenwick: 60.98%  
-### Even Strength Percent of expect Goals For: 75.58%  
-### Even Strength Expected Goals For: 2.36  
-### Even Strength Expected Goals Against: 0.76  
+### Even Strength Percent of expect Goals For: 71.98%  
+### Even Strength Expected Goals For: 2.15  
+### Even Strength Expected Goals Against: 0.84  
 ## Even Strength  
 ***
 ### Game Total:  
-##### number of shifts: 45  
+##### number of shifts: 20  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -50,7 +50,7 @@ Total & 3 & 6 & 15 & 24\\
 \end{tabular}
   
 ### Period: 1  
-##### number of shifts: 15  
+##### number of shifts: 6  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -84,7 +84,7 @@ Total & 1 & 1 & 4 & 6\\
 \end{tabular}
   
 ### Period: 2  
-##### number of shifts: 12  
+##### number of shifts: 7  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -118,7 +118,7 @@ Total & 1 & 2 & 3 & 6\\
 \end{tabular}
   
 ### Period: 3  
-##### number of shifts: 18  
+##### number of shifts: 7  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -292,7 +292,7 @@ Total & 0 & 0 & 0 & 0\\
 ## Penalty Kill  
 ***
 ### Game Total:  
-##### number of shifts: 4  
+##### number of shifts: 2  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -326,7 +326,7 @@ Total & 1 & 1 & 0 & 2\\
 \end{tabular}
   
 ### Period: 1  
-##### number of shifts: 2  
+##### number of shifts: 1  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -360,7 +360,7 @@ Total & 0 & 1 & 0 & 1\\
 \end{tabular}
   
 ### Period: 2  
-##### number of shifts: 2  
+##### number of shifts: 1  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}

@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 # 7: Amouse  
 ### Corsi: 55.17%  
 ### Fenwick: 62.50%  
-### Even Strength Percent of expect Goals For: 81.83%  
-### Even Strength Expected Goals For: 1.56  
-### Even Strength Expected Goals Against: 0.35  
+### Even Strength Percent of expect Goals For: 78.88%  
+### Even Strength Expected Goals For: 1.42  
+### Even Strength Expected Goals Against: 0.38  
 ## Even Strength  
 ***
 ### Game Total:  
-##### number of shifts: 25  
+##### number of shifts: 15  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -84,7 +84,7 @@ Total & 0 & 0 & 2 & 2\\
 \end{tabular}
   
 ### Period: 2  
-##### number of shifts: 8  
+##### number of shifts: 5  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -118,7 +118,7 @@ Total & 0 & 2 & 2 & 4\\
 \end{tabular}
   
 ### Period: 3  
-##### number of shifts: 13  
+##### number of shifts: 6  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -292,7 +292,7 @@ Total & 0 & 0 & 0 & 0\\
 ## Penalty Kill  
 ***
 ### Game Total:  
-##### number of shifts: 2  
+##### number of shifts: 1  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -326,7 +326,7 @@ Total & 0 & 1 & 0 & 1\\
 \end{tabular}
   
 ### Period: 1  
-##### number of shifts: 2  
+##### number of shifts: 1  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}

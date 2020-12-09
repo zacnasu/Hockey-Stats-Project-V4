@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 # 25: O'Hanisain  
 ### Corsi: 45.71%  
 ### Fenwick: 44.00%  
-### Even Strength Percent of expect Goals For: 62.71%  
-### Even Strength Expected Goals For: 1.22  
-### Even Strength Expected Goals Against: 0.73  
+### Even Strength Percent of expect Goals For: 57.78%  
+### Even Strength Expected Goals For: 1.08  
+### Even Strength Expected Goals Against: 0.79  
 ## Even Strength  
 ***
 ### Game Total:  
-##### number of shifts: 29  
+##### number of shifts: 16  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -50,7 +50,7 @@ Total & 4 & 5 & 10 & 19\\
 \end{tabular}
   
 ### Period: 1  
-##### number of shifts: 11  
+##### number of shifts: 4  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -84,7 +84,7 @@ Total & 0 & 2 & 4 & 6\\
 \end{tabular}
   
 ### Period: 2  
-##### number of shifts: 11  
+##### number of shifts: 6  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
@@ -118,7 +118,7 @@ Total & 1 & 2 & 5 & 8\\
 \end{tabular}
   
 ### Period: 3  
-##### number of shifts: 7  
+##### number of shifts: 6  
 #### FOR  
   
 \begin{tabular}{ c || c | c | c || c}
